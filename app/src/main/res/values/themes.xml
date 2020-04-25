@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="customTheme" parent="Theme.AppCompat">
+        <item name="android:ambientShadowAlpha">0.3</item>
+        <item name="android:spotShadowAlpha">0.3</item>
+        <item name="android:windowDrawsSystemBarBackgrounds">false</item>
+        <item name="android:windowTitleBackgroundStyle">@style/WindowTitleBackground</item>
+
+    </style>
+</resources>
